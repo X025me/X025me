@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💡 &nbsp; Coding like poetry should be short and concise.
 
 
-<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=medahad&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'><img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hktalent&layout=compact&theme=chartreuse-dark&langs_count=8">
+<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=X025me&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'><img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hktalent&layout=compact&theme=chartreuse-dark&langs_count=8">
 <br>
 
 
