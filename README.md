@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2>Welcome  </h2>
 
-### 👨🏻‍💻 &nbsp;About [ME](https://Exodus.github.io/) 
+### 👨🏻‍💻 &nbsp;About [ME](https://x025me.github.io/) 
 
                
 💡 &nbsp; Coding like poetry should be short and concise.
